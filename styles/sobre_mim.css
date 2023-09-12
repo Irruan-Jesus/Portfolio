@@ -1,0 +1,32 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background:#000000;
+    color: #ffffff;
+}
+
+.cabecalho__menu{
+    display: flex;
+    gap: 80px;
+    padding: 2% 0% 0% 20%;
+    }
+    
+.cabecalho__menu__link{
+    font-family:'Montserrat', sans-serif;
+    font-size: 24px;
+    font-weight: 600;
+    color: #22D4FD;
+    text-decoration: none;
+}
+    
+    .rodape{
+        padding: 24px;
+        color: #000000;
+        background-color: #22D4FD;
+        font-family: 'Montserrat',sans-serif;
+        text-align: center;
+        font-weight: 400;
+        font-size: 24px;
+      }
